@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2423781).
-* Наставник: `Неизвестно`.
+* Студент: [Fedor: arma](https://up.htmlacademy.ru/htmlcss-individual/1/user/2423781).
+* Наставник: `Вадим Рахманов`.
 
 ---
 
